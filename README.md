@@ -1,2 +1,2 @@
-# Frontend-Journey
+# NETFLIX CLONE
 Frontend development practice, mini projects, UI clones, and experiments using HTML, CSS, and JavaScript.
